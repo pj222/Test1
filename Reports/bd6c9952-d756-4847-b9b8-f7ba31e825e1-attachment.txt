@@ -1,2 +1,0 @@
-{"id":10091006,"first_name":"pallavii_new1","middle_name":"Sagar_new1","last_name":"Wabale_new1","date_of_birth":"10-05-1987"}
-10091006

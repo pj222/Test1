@@ -1,2 +1,0 @@
-fixture code
-test_t1_smoke
