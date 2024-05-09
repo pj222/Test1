@@ -8,3 +8,4 @@ def test_t1():
 @pytest.mark.sanity
 def test_t2():
     print("test_t2_sanity")
+    print("test_t2_sanity_gittest")
